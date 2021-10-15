@@ -7,7 +7,8 @@ You can reach him out wither at [:email:](andrea.giussani@cloudacademy.com) or o
 ## Repository Structure
 You will find:
  - a `data` folder containing the data used in this series;
- - a folder called `episode-01` containing the material related to the first episode entitled _Imputing Missing Values with scikit-learn_. The recorded session can be found [here](https://www.youtube.com/watch?v=FJLwxmdGOuU).
+ - a folder called `episode_01` containing the material related to the first episode entitled _Imputing Missing Values with scikit-learn_. The recorded session can be found [here](https://www.youtube.com/watch?v=FJLwxmdGOuU).
+  - a folder called `episode_02` containing the material related to the second episode entitled _Build and run a Machine Learning Pipeline_. The recorded session can be found [here](https://www.youtube.com/watch?v=qZ0dJhsxYB4).
 
 ## Setting Up the Google Colab Environment
 
