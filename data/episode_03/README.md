@@ -1,0 +1,2 @@
+Data for this episode are taken from [this repository](https://archive.ics.uci.edu/ml/datasets/wine+quality). 
+For more information, please refer to the paper by [Cortez et al., 2009](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377).
