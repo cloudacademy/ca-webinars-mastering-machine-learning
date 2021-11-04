@@ -9,6 +9,7 @@ You will find:
  - a `data` folder containing the data used in this series;
  - a folder called `episode_01` containing the material related to the first episode entitled _Imputing Missing Values with scikit-learn_. The recorded session can be found [here](https://www.youtube.com/watch?v=FJLwxmdGOuU).
   - a folder called `episode_02` containing the material related to the second episode entitled _Build and run a Machine Learning Pipeline_. The recorded session can be found [here](https://www.youtube.com/watch?v=qZ0dJhsxYB4).
+  - a folder called `episode_03` containing the material related to the second episode entitled _Be a data Science Master and Commander with XGBoost_. The recorded session will be available after the live session.
 
 ## Setting Up the Google Colab Environment
 
